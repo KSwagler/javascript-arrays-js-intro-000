@@ -22,4 +22,3 @@ fuction destructivelyAddElementToBeginningOfArray (array) {
   array.shift()
   return array
 }
-
