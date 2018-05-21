@@ -8,7 +8,8 @@ function destructivelyAddElementToBeginningOfArray (array, element) {
   array.unshift(element);
   return array
 }
-function accessElementInArray(array, index){
+function console.log(entrepreneurs[0]);
+(array, index){
   return array[index]
 }
 function addElementToEndOfArray(array, element) {
@@ -21,4 +22,7 @@ function destructivelyAddElementToEndOfArray(array, element) {
 function destructivelyRemoveElementFromBeginningOfArray(array) {
   array.shift ()
   return array
+}
+function removeElementFromBeginningOfArray(array) {
+  return array.push element
 }
